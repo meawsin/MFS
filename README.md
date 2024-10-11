@@ -22,5 +22,5 @@ MFS (Mobile Financial System) is a simple Java-based command-line application th
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/MFS-FileSystem.git
-   cd MFS-FileSystem
+   git clone https://github.com/your-username/MFS.git
+   cd MFS
